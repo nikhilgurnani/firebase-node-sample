@@ -1,0 +1,24 @@
+{
+  "name": "firebase-node-sample",
+  "version": "1.0.0",
+  "description": "This is a sample project with Firebase integration instead of Mongo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilgurnani/firebase-node-sample.git"
+  },
+  "keywords": [
+    "firebase",
+    "nodejs",
+    "sample"
+  ],
+  "author": "Nikhil Gurnani (gurnanikhil@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilgurnani/firebase-node-sample/issues"
+  },
+  "homepage": "https://github.com/nikhilgurnani/firebase-node-sample#readme"
+}
