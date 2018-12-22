@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/nikhilgurnani/firebase-node-sample/issues"
   },
-  "homepage": "https://github.com/nikhilgurnani/firebase-node-sample#readme"
+  "homepage": "https://github.com/nikhilgurnani/firebase-node-sample#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "firebase": "^5.7.1",
+    "helmet": "^3.15.0",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7"
+  }
 }
